@@ -63,6 +63,8 @@ php artisan serve
 
 Visit: http://127.0.0.1:8000
 
+### Default Login Credentials
+
 Role,  Email,  Password
 Admin,  admin@sritravel.com,  password
 Driver,  driver@sritravel.com,  password
