@@ -34,11 +34,11 @@ A modern **vehicle rental booking platform** built with **Laravel 12**, featurin
 
 ## 📸 Screenshots
 
-![Homepage](screenshots/01-homepage.png)
-![Vehicles](screenshots/02-vehicles.png)
-![Booking Form](screenshots/03-booking.png)
-![Admin Dashboard](screenshots/04-admin-dashboard.png)
-![Driver Dashboard](screenshots/05-driver-dashboard.png)
+![Homepage](image.png)
+![Vehicles Listing](image-4.png)
+![Booking Form](image-3.png)
+![Admin Dashboard](image-1.png)
+![Driver Dashboard](image-2.png)
 
 Made with ❤️ for portfolio & learning purposes.
 
