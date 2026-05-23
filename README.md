@@ -1,6 +1,6 @@
 # SriTravel - Vehicle Rental Management System
 
-A modern, full-featured **vehicle rental booking platform** built with **Laravel 12**. It includes three user roles: **Admin**, **Driver**, and **Customer** with complete booking management and real-time availability checking.
+A modern, full-featured **vehicle rental booking platform** built with **Laravel 12**. It supports three user roles: **Admin**, **Driver**, and **Customer** with complete booking management and real-time availability checking.
 
 ## ✨ Features
 
@@ -41,6 +41,7 @@ A modern, full-featured **vehicle rental booking platform** built with **Laravel
 
 ### Steps
 
+```bash
 # Clone the repository
 git clone https://github.com/dilanga2002/SriTravel.git
 cd SriTravel
@@ -58,15 +59,15 @@ php artisan migrate --seed
 php artisan storage:link
 
 # Run the application
-php artisan serve ```
+php artisan serve```bash
 
-Visit: http://127.0.0.1:8000
+Visit: http://127.0.0.1:8000 
 
 ### Default Login Credentials
 
-Role,  Email,  Password
-Admin,  admin@sritravel.com,  password
-Driver,  driver@sritravel.com,  password
-Customer,  customer@sritravel.com,  password
+Role,Email,Password
+Admin,admin@sritravel.com,password
+Driver,driver@sritravel.com,password
+Customer,customer@sritravel.com,password
 
 Made with for portfolio and learning purposes.
