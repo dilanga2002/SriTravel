@@ -59,7 +59,7 @@ php artisan migrate --seed
 php artisan storage:link
 
 # Run the application
-php artisan serve
+php artisan serve ```
 
 Visit: http://127.0.0.1:8000
 
