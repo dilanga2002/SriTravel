@@ -40,6 +40,8 @@ A modern **vehicle rental booking platform** built with **Laravel 12**, featurin
 ![Admin Dashboard](screenshots/04-admin-dashboard.png)
 ![Driver Dashboard](screenshots/05-driver-dashboard.png)
 
+Made with ❤️ for portfolio & learning purposes.
+
 ## 🚀 Installation
 
 ```bash
@@ -54,4 +56,4 @@ php artisan serve
 
 
 
-Made with ❤️ for portfolio & learning purposes.
+
