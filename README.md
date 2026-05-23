@@ -41,7 +41,6 @@ A modern, full-featured **vehicle rental booking platform** built with **Laravel
 
 ### Steps
 
-```bash
 # Clone the repository
 git clone https://github.com/dilanga2002/SriTravel.git
 cd SriTravel
