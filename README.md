@@ -22,15 +22,15 @@ A modern **vehicle rental booking platform** built with **Laravel 12**, featurin
 
 ## Default Credentials:
 
-Admin: admin@sritravel.com / password
-Driver: driver@sritravel.com / password
-Customer: customer@sritravel.com / password
+- Admin: admin@sritravel.com / password
+- Driver: driver@sritravel.com / password
+- Customer: customer@sritravel.com / password
 
 ## 📁 Project Structure
 
-app/Http/Controllers/Admin/ → Admin Panel
-app/Http/Controllers/ → Customer & Driver Logic
-resources/views/ → Blade Templates
+- app/Http/Controllers/Admin/ → Admin Panel
+- app/Http/Controllers/ → Customer & Driver Logic
+- resources/views/ → Blade Templates
 
 ## 📸 Screenshots
 
