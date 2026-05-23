@@ -38,6 +38,14 @@ A modern, full-featured **vehicle rental booking platform** built with **Laravel
 - Composer
 - MySQL
 - Node.js & npm
+  
+### Default Login Credentials
+### Role,Email,Password
+- Admin,admin@sritravel.com,password
+- Driver,driver@sritravel.com,password
+- Customer,customer@sritravel.com,password
+
+### Made with for portfolio and learning purposes.
 
 ### Steps
 
